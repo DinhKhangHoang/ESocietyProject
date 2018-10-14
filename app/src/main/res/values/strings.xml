@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ESocietyProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="dsTittle">
+        <item> "Ô nhiễm nước"</item>
+        <item> "Ô nhiễm đất"</item>
+        <item> "Ô nhiễm rác thải"</item>
+        <item> "Ô nhiễm không khí"</item>
+    </string-array>
+
+</resources>
